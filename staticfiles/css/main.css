@@ -1,0 +1,13 @@
+
+
+body {
+    background-color: #F8F8F8;
+}
+
+img{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
