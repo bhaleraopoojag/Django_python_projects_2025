@@ -1,0 +1,1 @@
+# Django_python_projects_2025
